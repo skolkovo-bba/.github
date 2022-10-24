@@ -5,3 +5,4 @@
 ### [Математический анализ](https://github.com/skolkovo-bba/math-analysis)
 ### [Лабораторные работы](https://github.com/skolkovo-bba/labs)
 ### [Алгебра и Геометрия](https://github.com/skolkovo-bba/al-gem)
+### [Биология](https://github.com/skolkovo-bba/biology)
