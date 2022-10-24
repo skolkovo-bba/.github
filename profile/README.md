@@ -6,3 +6,4 @@
 ### [Лабораторные работы](https://github.com/skolkovo-bba/labs)
 ### [Алгебра и Геометрия](https://github.com/skolkovo-bba/al-gem)
 ### [Биология](https://github.com/skolkovo-bba/biology)
+### [Физика](https://github.com/skolkovo-bba/physics)
