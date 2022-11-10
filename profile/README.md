@@ -8,7 +8,6 @@
 ### [Биология](https://github.com/skolkovo-bba/biology)
 ### [Физика](https://github.com/skolkovo-bba/physics)
 
-# Фразы преподавателей
 
 > Век живи - чек мочись. Тимур
 
