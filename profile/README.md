@@ -8,6 +8,7 @@
 ### [Биология](https://github.com/skolkovo-bba/biology)
 ### [Физика](https://github.com/skolkovo-bba/physics)
 
+> Точка с запятой - это точка... но с запятой. Ирина Короткина
 
 > Век живи - чек мочись. Тимур Чернов
 
