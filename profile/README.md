@@ -1,5 +1,6 @@
-# Предметы
+![alt-текст](https://github.com/arduinoev3/arduinoev3/blob/main/плакат.png?raw=true)
 
+# Предметы
 
 ### [Информатика](https://github.com/skolkovo-bba/Informatics)
 ### [Математический анализ](https://github.com/skolkovo-bba/math-analysis)
