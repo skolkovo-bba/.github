@@ -1,5 +1,7 @@
 ![alt-текст](https://github.com/arduinoev3/arduinoev3/blob/main/плакат.png?raw=true)
 
+**У нас есть [Youtube](https://www.youtube.com/@skolkovo-bba)**
+
 # Предметы
 
 ### [Информатика](https://github.com/skolkovo-bba/informatics)
