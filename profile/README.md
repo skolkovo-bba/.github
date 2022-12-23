@@ -7,7 +7,7 @@
 ### [Лабораторные работы](https://github.com/skolkovo-bba/labs)
 ### [Алгебра и Геометрия](https://github.com/skolkovo-bba/al-gem)
 ### [Биология](https://github.com/skolkovo-bba/bio)
-### [Физика](https://github.com/skolkovo-bba/physics)
+### [Физика](https://github.com/skolkovo-bba/phys)
 
 > Не ломать препараты, иначе хруст стекла будет последним звуком в вашей жизни
 
