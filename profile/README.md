@@ -1,3 +1,5 @@
+![alt-текст](https://github.com/skolkovo-bba/.github/blob/main/шапка.png?raw=true)
+
 **У нас есть [Youtube](https://www.youtube.com/@skolkovo-bba)**
 
 # Предметы
