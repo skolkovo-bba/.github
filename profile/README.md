@@ -4,12 +4,12 @@
 
 # Предметы
 
-### [Информатика](https://github.com/skolkovo-bba/informatics)
-### [Математический анализ](https://github.com/skolkovo-bba/math)
-### [Лабораторные работы](https://github.com/skolkovo-bba/labs)
-### [Алгебра и Геометрия](https://github.com/skolkovo-bba/al-gem)
-### [Биология](https://github.com/skolkovo-bba/bio)
-### [Физика](https://github.com/skolkovo-bba/phys)
+### [Информатика 2](https://github.com/skolkovo-bba/informatics2)
+### [Математический анализ 2](https://github.com/skolkovo-bba/math2)
+### [Лабораторные работы 2](https://github.com/skolkovo-bba/labs2)
+### [Алгебра и Геометрия 2](https://github.com/skolkovo-bba/al-gem2)
+### [Биология 2](https://github.com/skolkovo-bba/bio2)
+### [Физика 2](https://github.com/skolkovo-bba/phys2)
 
 > Перейдем в систему отсчета вращающегося крота. Юдин Иван 
 
@@ -43,6 +43,14 @@
 
 > Закончили ритуальные поглаживания и пошли офигевать. Чернов Тимур
 
+# Пока в архиве
+
+### [Информатика 1](https://github.com/skolkovo-bba/informatics1)
+### [Математический анализ 1](https://github.com/skolkovo-bba/math1)
+### [Лабораторные работы 1](https://github.com/skolkovo-bba/labs1)
+### [Алгебра и Геометрия 1](https://github.com/skolkovo-bba/al-gem1)
+### [Биология 1](https://github.com/skolkovo-bba/bio1)
+### [Физика 1](https://github.com/skolkovo-bba/phys1)
 
 # Благодарности авторам:
 * Касьянов Семён - **ФБВТ**(2022)
