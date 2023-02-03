@@ -4,12 +4,12 @@
 
 # Предметы
 
-### [Информатика 2](https://github.com/skolkovo-bba/informatics2)
-### [Математический анализ 2](https://github.com/skolkovo-bba/math2)
-### [Лабораторные работы 2](https://github.com/skolkovo-bba/labs2)
-### [Алгебра и Геометрия 2](https://github.com/skolkovo-bba/al-gem2)
-### [Биология 2](https://github.com/skolkovo-bba/bio2)
-### [Физика 2](https://github.com/skolkovo-bba/phys2)
+### [Информатика 2](https://github.com/skolkovo-bba/informatics1)
+### [Математический анализ 2](https://github.com/skolkovo-bba/math1)
+### [Лабораторные работы 2](https://github.com/skolkovo-bba/labs1)
+### [Алгебра и Геометрия 2](https://github.com/skolkovo-bba/al-gem1)
+### [Биология 2](https://github.com/skolkovo-bba/bio1)
+### [Физика 2](https://github.com/skolkovo-bba/phys1)
 
 > Перейдем в систему отсчета вращающегося крота. Юдин Иван 
 
