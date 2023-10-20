@@ -2,14 +2,29 @@
 
 **У нас есть [Youtube](https://www.youtube.com/@skolkovo-bba)**
 
-# Предметы
+# Предметы 3 семестр
 
-### [Информатика 2](https://github.com/skolkovo-bba/informatics2)
-### [Математический анализ 2](https://github.com/skolkovo-bba/math2)
-### [Лабораторные работы 2](https://github.com/skolkovo-bba/labs2)
-### [Алгебра и Геометрия 2](https://github.com/skolkovo-bba/al-gem2)
-### [Биология 2](https://github.com/skolkovo-bba/bio2)
-### [Физика 2](https://github.com/skolkovo-bba/phys2)
+### [Теоретическая механика 3](https://github.com/skolkovo-bba/analytical-mechanics3)
+### [Кратные интегралы и теория поля 3](https://github.com/skolkovo-bba/multiple-integrals-field-theory3)
+### [Дифференциальные уравнения 3](https://github.com/skolkovo-bba/differential-equations3)
+### [Теория вероятностей 3](https://github.com/skolkovo-bba/probability-theory3)
+### [Лабораторные работы 3](https://github.com/skolkovo-bba/labs3)
+### [Информатика 3](https://github.com/skolkovo-bba/informatics3)
+### [Биология 3](https://github.com/skolkovo-bba/bio3)
+### [Физика 3](https://github.com/skolkovo-bba/phys3)
+
+**Если вы готовы поделиться материалами по первому потоку, то напишите [Кате](https://t.me/edboyarina)**
+
+# Предметы 1 семетр
+
+### [Информатика 1](https://github.com/skolkovo-bba/informatics1)
+### [Математический анализ 1](https://github.com/skolkovo-bba/math1)
+### [Лабораторные работы 1](https://github.com/skolkovo-bba/labs1)
+### [Алгебра и Геометрия 1](https://github.com/skolkovo-bba/al-gem1)
+### [Биология 1](https://github.com/skolkovo-bba/bio1)
+### [Физика 1](https://github.com/skolkovo-bba/phys1)
+
+**Если вы готовы поделиться материалами по второму потоку, то напишите [Марии](https://t.me/mawno) или [Егору](https://t.me/Arlekk1n)**
 
 > Тимур, вы что-то отдаете? Да что вы - люди должны мне как земля колхозу. Тимур Чернов
 
