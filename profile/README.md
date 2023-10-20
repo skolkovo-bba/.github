@@ -1,7 +1,5 @@
 ![alt-текст](https://github.com/skolkovo-bba/.github/blob/main/шапка.png?raw=true)
 
-**У нас есть [Youtube](https://www.youtube.com/@skolkovo-bba)**
-
 # Предметы 3 семестр
 
 ### [Теоретическая механика 3](https://github.com/skolkovo-bba/analytical-mechanics3)
