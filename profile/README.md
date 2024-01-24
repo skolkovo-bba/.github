@@ -13,7 +13,7 @@
 
 **Если вы готовы поделиться материалами по первому потоку, то напишите [Кате](https://t.me/edboyarina), по поводу достпупа к приватным курсам писать ей же**
 
-# Предметы 1 семетр
+# Предметы 1 семетр ([Задавальник 1](https://github.com/skolkovo-bba/.github/blob/main/Задавальники/Задавальник%201.pdf))
 
 ### [Информатика 1](https://github.com/skolkovo-bba/informatics1)
 ### [Математический анализ 1](https://github.com/skolkovo-bba/math1)
