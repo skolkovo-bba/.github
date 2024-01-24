@@ -1,6 +1,6 @@
 ![alt-текст](https://github.com/skolkovo-bba/.github/blob/main/шапка.png?raw=true)
 
-# Предметы 3 семестр ([Задавальник](https://t.me/edboyarina))
+# Предметы 3 семестр ([Задавальник 3]([https://t.me/edboyarina](https://github.com/skolkovo-bba/.github/blob/main/Задавальники/Задавальник%203.pdf)))
 
 ### [Теоретическая механика 3](https://github.com/skolkovo-bba/analytical-mechanics3)
 ### [Кратные интегралы и теория поля 3](https://github.com/skolkovo-bba/multiple-integrals-field-theory3)
