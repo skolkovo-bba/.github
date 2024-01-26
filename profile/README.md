@@ -5,26 +5,64 @@
 **Если вы готовы поделиться материалами по второму потоку, то напишите [Марии](https://t.me/omagasha) или [Егору](https://t.me/Arlekk1n), по поводу достпупа к приватным курсам писать им же**
 
 # Предметы МФТИ
+[Задавальнк I](https://github.com/skolkovo-bba/.github/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B8/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%201.pdf)
+
+[Задавальнк III](https://github.com/skolkovo-bba/.github/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B8/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%203.pdf)
+
+
 
 ## Матеша
-### [Матан](https://github.com/skolkovo-bba/math) ([Семестр 1](https://github.com/skolkovo-bba/math/tree/main/math1), [Семестр 2](https://github.com/skolkovo-bba/math/tree/main/math2), [Семестр 3](https://github.com/skolkovo-bba/math/tree/main/math3), [Семестр 4](https://github.com/skolkovo-bba/math/tree/main/math4))
-### [Оптимизация (Семестр 4)](https://github.com/skolkovo-bba/mathematical-optimization-4)
-### [Теорвер (Саместр 3)](https://github.com/skolkovo-bba/probability-theory3) & [Случ. процессы и матстаты (Семестр 4)](https://github.com/skolkovo-bba/random-processes-and-mathematical-statistics-4)
-### [Алгем](https://github.com/skolkovo-bba/al-gem) ([Семестр 1](https://github.com/skolkovo-bba/al-gem/tree/main/al-gem1), [Семестр 2](https://github.com/skolkovo-bba/al-gem/tree/main/al-gem2))
-### [Диффуры (Семестр 3)](https://github.com/skolkovo-bba/differential-equations3)
+
+### [Матан](https://github.com/skolkovo-bba/math) ([I](https://github.com/skolkovo-bba/math/tree/main/math1), [II](https://github.com/skolkovo-bba/math/tree/main/math2), [III](https://github.com/skolkovo-bba/math/tree/main/math3), [IV](https://github.com/skolkovo-bba/math/tree/main/math4))
+
+### [Оптимизация (IV)](https://github.com/skolkovo-bba/mathematical-optimization-4)
+
+### [Вычислительная Матеша (IV)](https://github.com/skolkovo-bba/computational-mathematics-4)
+
+### [Теорвер (III)](https://github.com/skolkovo-bba/probability-theory3) & [Случ. процессы и матстаты (IV)](https://github.com/skolkovo-bba/random-processes-and-mathematical-statistics-4)
+
+### [Алгем](https://github.com/skolkovo-bba/al-gem) ([I](https://github.com/skolkovo-bba/al-gem/tree/main/al-gem1), [II](https://github.com/skolkovo-bba/al-gem/tree/main/al-gem2))
+
+### [Диффуры (III)](https://github.com/skolkovo-bba/differential-equations3)
 
 ## Физика
-### [Общая Физика](https://github.com/skolkovo-bba/phys) ([Семестр 1](https://github.com/skolkovo-bba/phys/tree/main/phys1), [Семестр 2](https://github.com/skolkovo-bba/phys/phys2), [Семестр 3](https://github.com/skolkovo-bba/phys/tree/main/phys3), [Семестр 4](https://github.com/skolkovo-bba/phys/tree/main/phys4))
-### [Лабораторные работы](https://github.com/skolkovo-bba/labs) ([Семестр 1](https://github.com/skolkovo-bba/labs/tree/main/sem1), [Семестр 2](https://github.com/skolkovo-bba/labs/tree/main/sem2), [Семестр 3](https://github.com/skolkovo-bba/labs/tree/main/sem3), [Семестр 4](https://github.com/skolkovo-bba/labs/tree/main/sem4))
-### [Теормех (Семестр 3)](https://github.com/skolkovo-bba/analytical-mechanics3) & [Теория динамических систем (Семестр 4)](https://github.com/skolkovo-bba/theory-of-dynamic-systems-4)
+
+### [Общая Физика](https://github.com/skolkovo-bba/phys) ([I](https://github.com/skolkovo-bba/phys/tree/main/phys1), [II](https://github.com/skolkovo-bba/phys/phys2), [III](https://github.com/skolkovo-bba/phys/tree/main/phys3), [IV](https://github.com/skolkovo-bba/phys/tree/main/phys4))
+
+### [Лабораторные Работы](https://github.com/skolkovo-bba/labs) ([I](https://github.com/skolkovo-bba/labs/tree/main/sem1), [II](https://github.com/skolkovo-bba/labs/tree/main/sem2), [III](https://github.com/skolkovo-bba/labs/tree/main/sem3), [IV](https://github.com/skolkovo-bba/labs/tree/main/sem4))
+
+### [Теормех (III)](https://github.com/skolkovo-bba/analytical-mechanics3) & [Теория динамических систем (IV)](https://github.com/skolkovo-bba/theory-of-dynamic-systems-4)
 
 ## Другое
-### [Информатика](https://github.com/skolkovo-bba/informatics) ([Семестр 1](https://github.com/skolkovo-bba/informatics/tree/main/informatics1), [Семестр 2](https://github.com/skolkovo-bba/informatics/tree/main/informatics2), [Семестр 3](https://github.com/skolkovo-bba/informatics/tree/main/informatics3), [Семестр 4](https://github.com/skolkovo-bba/informatics/tree/main/informatics4))
-### [Биология](https://github.com/skolkovo-bba/bio/) ([Семестр 1](https://github.com/skolkovo-bba/bio/tree/main/bio1), [Семестр 2](https://github.com/skolkovo-bba/bio/tree/main/bio2), [Семестр 3](https://github.com/skolkovo-bba/bio/tree/main/bio3), [Семестр 4](https://github.com/skolkovo-bba/bio/tree/main/bio4))
+
+### [Информатика](https://github.com/skolkovo-bba/informatics) ([I](https://github.com/skolkovo-bba/informatics/tree/main/informatics1), [II](https://github.com/skolkovo-bba/informatics/tree/main/informatics2), [III](https://github.com/skolkovo-bba/informatics/tree/main/informatics3), [IV](https://github.com/skolkovo-bba/informatics/tree/main/informatics4))
+
+### [Биология](https://github.com/skolkovo-bba/bio/) ([I](https://github.com/skolkovo-bba/bio/tree/main/bio1), [II](https://github.com/skolkovo-bba/bio/tree/main/bio2), [III](https://github.com/skolkovo-bba/bio/tree/main/bio3), [IV](https://github.com/skolkovo-bba/bio/tree/main/bio4))
 
 # Предметы СКОЛКОВО
 
-## TODO
+## Курсы SAS/Биология
+
+### [Город-как-текст (II, 22/23)](https://github.com/skolkovo-bba/city-as-text2)
+### [Медиа и культурные техники (I, 22/23)](https://github.com/skolkovo-bba/media-and-cultural-techniques1) & [Эксперименты и научный метод (I, 23/24)](https://github.com/skolkovo-bba/experimentality-technology-scientific-method1)
+### [Эволюционная Генетика (I, 22/23)](https://github.com/skolkovo-bba/evolutionary-genetics1) & [Поведенческая Биология (I, 23/24)](https://github.com/skolkovo-bba/biology-of-human-behaviour1)
+### [Поведенческая Экономика (I)](https://github.com/skolkovo-bba/behavioral-economics1)
+### [Fundamentals of Sociology (II, 22/23)](https://github.com/skolkovo-bba/fundamentals-of-sociology-en2) & [Основы Социологии (II)](https://github.com/skolkovo-bba/fundamentals-of-sociology2)
+
+## Курсы бизнес-школы
+
+### [Trends and Marketing (II)](https://github.com/skolkovo-bba/sociology-trends-and-marketing-strategies-en2) & [Тренды и Маркетинг (II)](https://github.com/skolkovo-bba/sociology-trends-and-marketing-strategies2)
+### [Дата-ориентированные Коммуникации (III)](https://github.com/skolkovo-bba/fundamentals-of-data-driven-communications3)
+### [Основы Лидерства (I)](https://github.com/skolkovo-bba/fundamentals-of-leadership1)
+### [Менеджмент (III)](https://github.com/skolkovo-bba/organizational-management3)
+### [Мировая Культура (II)](https://github.com/skolkovo-bba/world-culture2)
+### [Междисциплинарная Сборка (I)](https://github.com/skolkovo-bba/interdisciplinary-assembly1)
+
+## Курсы МГИМО
+
+### [Философия (III)](https://github.com/skolkovo-bba/philosophy3)
+### [История (III)](https://github.com/skolkovo-bba/history3)
+### [Политология (III)](https://github.com/skolkovo-bba/political-science3)
 
 # Благодарности авторам:
 * Касьянов Семён - **ФБВТ**(2022)
