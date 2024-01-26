@@ -1,28 +1,58 @@
 ![alt-текст](https://github.com/skolkovo-bba/.github/blob/main/шапка.png?raw=true)
 
-# Предметы 3 семестр ([Задавальник 3](https://github.com/skolkovo-bba/.github/blob/main/Задавальники/Задавальник%203.pdf))
-
-### [Теоретическая механика 3](https://github.com/skolkovo-bba/analytical-mechanics3)
-### [Кратные интегралы и теория поля 3](https://github.com/skolkovo-bba/multiple-integrals-field-theory3)
-### [Дифференциальные уравнения 3](https://github.com/skolkovo-bba/differential-equations3)
-### [Теория вероятностей 3](https://github.com/skolkovo-bba/probability-theory3)
-### [Информатика 3](https://github.com/skolkovo-bba/informatics3)
-### [Биология 3](https://github.com/skolkovo-bba/bio3)
-### [Физика 3](https://github.com/skolkovo-bba/phys3)
-### [Лабораторные работы](https://github.com/skolkovo-bba/labs)
-
 **Если вы готовы поделиться материалами по первому потоку, то напишите [Кате](https://t.me/edboyarina), по поводу достпупа к приватным курсам писать ей же**
 
-# Предметы 1 семетр ([Задавальник 1](https://github.com/skolkovo-bba/.github/blob/main/Задавальники/Задавальник%201.pdf))
-
-### [Информатика 1](https://github.com/skolkovo-bba/informatics1)
-### [Математический анализ 1](https://github.com/skolkovo-bba/math1)
-### [Алгебра и Геометрия 1](https://github.com/skolkovo-bba/al-gem1)
-### [Биология 1](https://github.com/skolkovo-bba/bio1)
-### [Физика 1](https://github.com/skolkovo-bba/phys1)
-### [Лабораторные работы](https://github.com/skolkovo-bba/labs)
-
 **Если вы готовы поделиться материалами по второму потоку, то напишите [Марии](https://t.me/omagasha) или [Егору](https://t.me/Arlekk1n), по поводу достпупа к приватным курсам писать им же**
+
+# Предметы МФТИ
+
+## Матеша
+### [Матан](https://github.com/skolkovo-bba/math) ([Семемтр 1](https://github.com/skolkovo-bba/math/tree/main/math1), [Семестр 2](https://github.com/skolkovo-bba/math/tree/main/math2), [Семестр 3](https://github.com/skolkovo-bba/math/tree/main/math3), [Семестр 4](https://github.com/skolkovo-bba/math/tree/main/math4))
+### [Оптимизация (Семестр 4)](https://github.com/skolkovo-bba/mathematical-optimization-4)
+### [Теорвер (Саместр 3)](https://github.com/skolkovo-bba/probability-theory3) & [Случ. процессы и матстаты (Семестр 4)](https://github.com/skolkovo-bba/random-processes-and-mathematical-statistics-4)
+### [Алгем](https://github.com/skolkovo-bba/al-gem) ([Семестр 1](https://github.com/skolkovo-bba/al-gem/tree/main/al-gem1), [Семестр 2](https://github.com/skolkovo-bba/al-gem/tree/main/al-gem2))
+### [Диффуры (Семестр 3)](https://github.com/skolkovo-bba/differential-equations3)
+
+## Физика
+### [Общая Физика](https://github.com/skolkovo-bba/phys) ([Семестр 1](https://github.com/skolkovo-bba/phys/tree/main/phys1), [Семестр 2](https://github.com/skolkovo-bba/phys/phys2), [Семестр 3](https://github.com/skolkovo-bba/phys/tree/main/phys3), [Семестр 4](https://github.com/skolkovo-bba/phys/tree/main/phys4))
+### [Лабораторные работы](https://github.com/skolkovo-bba/labs) ([Семестр 1](https://github.com/skolkovo-bba/labs/tree/main/sem1), [Семестр 2](https://github.com/skolkovo-bba/labs/tree/main/sem2), [Семестр 3](https://github.com/skolkovo-bba/labs/tree/main/sem3), [Семестр 4](https://github.com/skolkovo-bba/labs/tree/main/sem4))
+### [Теормех (Семестр 3)](https://github.com/skolkovo-bba/analytical-mechanics3) & [Теория динамических систем (Семестр 4)](https://github.com/skolkovo-bba/theory-of-dynamic-systems-4)
+
+## Другое
+### [Информатика](https://github.com/skolkovo-bba/informatics) ([Семестр 1](https://github.com/skolkovo-bba/informatics/tree/main/informatics1), [Семестр 2](https://github.com/skolkovo-bba/informatics/tree/main/informatics2), [Семестр 3](https://github.com/skolkovo-bba/informatics/tree/main/informatics3), [Семестр 4](https://github.com/skolkovo-bba/informatics/tree/main/informatics4))
+### [Биология](https://github.com/skolkovo-bba/bio/) ([Семестр 1](https://github.com/skolkovo-bba/bio/tree/main/bio1), [Семестр 2](https://github.com/skolkovo-bba/bio/tree/main/bio2), [Семестр 3](https://github.com/skolkovo-bba/bio/tree/main/bio3), [Семестр 4](https://github.com/skolkovo-bba/bio/tree/main/bio4))
+
+# Предметы СКОЛКОВО
+
+## TODO
+
+# Благодарности авторам:
+* Касьянов Семён - **ФБВТ**(2022)
+* Козлов Кирилл - **ФБВТ**(2022)
+* Екатерина Боярина - **ФБВТ**(2022)
+* Воробьев Игорь - **ФБВТ**(2022)
+* Ваулина Мария - **ФБВТ**(2023)
+* Барсуков Егор - **ФБВТ**(2023)
+
+Все эти добрые люди на безвозмездной основе пожертвовали вам свои работы. Скажем им за это спасибо.
+
+# Инстурукция "Как загрузить конспект на Гитхаб"
+
+1. Для начала нам нужно получить получить на свой компьютер (или пропросить у Семна файлы конспектов)
+![alt-текст](https://github.com/skolkovo-bba/.github/blob/main/manual1.png?raw=true)
+2. Переименуем файл в вид "<Номер недели> <Название (не обязательно)>" (Пример "1 Оноклеточные эукариоты"). Номер недели отсчитывается от 1. Если первая неделя семестра не полная, то ее номер 0. Если необходимо загрузить несколько файлов (например, конспект за неделю состоит из нескольких частей), то файл переименовываем в вид "<Номер недели> <Номер части> <Название (не обязательно)>" (Пример "1 1 Оноклеточные эукариоты"). Очень важно оставлять пробелы после цифр, чтобы файлы были в хронологическом порядке.
+![alt-текст](https://github.com/skolkovo-bba/.github/blob/main/manual2.png?raw=true)
+3. Находим нужный репозиторий на Гитхабе и заходим в него. Cписок всех репозиториев доступен по ссылке [https://github.com/orgs/skolkovo-bba/repositories](https://github.com/orgs/skolkovo-bba/repositories). Репозиторий именуется так "<Название предмета><Номер семестра>".
+![alt-текст](https://github.com/skolkovo-bba/.github/blob/main/manual3.png?raw=true)
+4. Заходим в нужную папку. Папка именуется в зависимости от типа пары, на которой был конспект "Лабы", "Семинары", "Лекции".
+![alt-текст](https://github.com/skolkovo-bba/.github/blob/main/manual4.png?raw=true)
+5. Находим кнопку "Upload files". Если ее нет, то значит у вас нет доступа к репозиторию, попросите доступ у студсовета ФБВТ.
+![alt-текст](https://github.com/skolkovo-bba/.github/blob/main/manual5.png?raw=true)
+6. Закидываем файл и на английском пишем коментарий что вы сделали. Думаю что для этой инструкции достаточно написать слово "add".
+![alt-текст](https://github.com/skolkovo-bba/.github/blob/main/manual6.png?raw=true)
+7. Еще раз все проверяем и жмем на зеленую кнопку.
+
+# Цитатник
 
 > Тимур, вы что-то отдаете? Да что вы - люди должны мне как земля колхозу. Тимур Чернов
 
@@ -61,38 +91,3 @@
 > Закончили ритуальные поглаживания и пошли офигевать. Чернов Тимур
 
 > Человека не поделишь на части. Это не хорошо. Называется расчленёнка. Чанышев
-
-# Предметы 2 семетр
-
-### [Информатика 2](https://github.com/skolkovo-bba/informatics2)
-### [Математический анализ 2](https://github.com/skolkovo-bba/math2)
-### [Лабораторные работы 2](https://github.com/skolkovo-bba/labs2)
-### [Алгебра и Геометрия 2](https://github.com/skolkovo-bba/al-gem2)
-### [Биология 2](https://github.com/skolkovo-bba/bio2)
-### [Физика 2](https://github.com/skolkovo-bba/phys2)
-
-# Благодарности авторам:
-* Касьянов Семён - **ФБВТ**(2022)
-* Козлов Кирилл - **ФБВТ**(2022)
-* Екатерина Боярина - **ФБВТ**(2022)
-* Воробьев Игорь - **ФБВТ**(2022)
-* Ваулина Мария - **ФБВТ**(2023)
-* Барсуков Егор - **ФБВТ**(2023)
-
-Все эти добрые люди на безвозмездной основе пожертвовали вам свои работы. Скажем им за это спасибо.
-
-# Инстурукция "Как загрузить конспект на Гитхаб"
-
-1. Для начала нам нужно получить получить на свой компьютер (или пропросить у Семна файлы конспектов)
-![alt-текст](https://github.com/skolkovo-bba/.github/blob/main/manual1.png?raw=true)
-2. Переименуем файл в вид "<Номер недели> <Название (не обязательно)>" (Пример "1 Оноклеточные эукариоты"). Номер недели отсчитывается от 1. Если первая неделя семестра не полная, то ее номер 0. Если необходимо загрузить несколько файлов (например, конспект за неделю состоит из нескольких частей), то файл переименовываем в вид "<Номер недели> <Номер части> <Название (не обязательно)>" (Пример "1 1 Оноклеточные эукариоты"). Очень важно оставлять пробелы после цифр, чтобы файлы были в хронологическом порядке.
-![alt-текст](https://github.com/skolkovo-bba/.github/blob/main/manual2.png?raw=true)
-3. Находим нужный репозиторий на Гитхабе и заходим в него. Cписок всех репозиториев доступен по ссылке [https://github.com/orgs/skolkovo-bba/repositories](https://github.com/orgs/skolkovo-bba/repositories). Репозиторий именуется так "<Название предмета><Номер семестра>".
-![alt-текст](https://github.com/skolkovo-bba/.github/blob/main/manual3.png?raw=true)
-4. Заходим в нужную папку. Папка именуется в зависимости от типа пары, на которой был конспект "Лабы", "Семинары", "Лекции".
-![alt-текст](https://github.com/skolkovo-bba/.github/blob/main/manual4.png?raw=true)
-5. Находим кнопку "Upload files". Если ее нет, то значит у вас нет доступа к репозиторию, попросите доступ у студсовета ФБВТ.
-![alt-текст](https://github.com/skolkovo-bba/.github/blob/main/manual5.png?raw=true)
-6. Закидываем файл и на английском пишем коментарий что вы сделали. Думаю что для этой инструкции достаточно написать слово "add".
-![alt-текст](https://github.com/skolkovo-bba/.github/blob/main/manual6.png?raw=true)
-7. Еще раз все проверяем и жмем на зеленую кнопку.
