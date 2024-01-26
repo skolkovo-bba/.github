@@ -7,7 +7,7 @@
 # Предметы МФТИ
 
 ## Матеша
-### [Матан](https://github.com/skolkovo-bba/math) ([Семемтр 1](https://github.com/skolkovo-bba/math/tree/main/math1), [Семестр 2](https://github.com/skolkovo-bba/math/tree/main/math2), [Семестр 3](https://github.com/skolkovo-bba/math/tree/main/math3), [Семестр 4](https://github.com/skolkovo-bba/math/tree/main/math4))
+### [Матан](https://github.com/skolkovo-bba/math) ([Семеместр 1](https://github.com/skolkovo-bba/math/tree/main/math1), [Семестр 2](https://github.com/skolkovo-bba/math/tree/main/math2), [Семестр 3](https://github.com/skolkovo-bba/math/tree/main/math3), [Семестр 4](https://github.com/skolkovo-bba/math/tree/main/math4))
 ### [Оптимизация (Семестр 4)](https://github.com/skolkovo-bba/mathematical-optimization-4)
 ### [Теорвер (Саместр 3)](https://github.com/skolkovo-bba/probability-theory3) & [Случ. процессы и матстаты (Семестр 4)](https://github.com/skolkovo-bba/random-processes-and-mathematical-statistics-4)
 ### [Алгем](https://github.com/skolkovo-bba/al-gem) ([Семестр 1](https://github.com/skolkovo-bba/al-gem/tree/main/al-gem1), [Семестр 2](https://github.com/skolkovo-bba/al-gem/tree/main/al-gem2))
