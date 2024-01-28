@@ -13,7 +13,7 @@
 
 ## Матеша
 
-### [Матан](https://github.com/skolkovo-bba/math) ([I](https://github.com/skolkovo-bba/math/tree/main/math1), [II](https://github.com/skolkovo-bba/math/tree/main/math2), [III](https://github.com/skolkovo-bba/math/tree/main/math3), [IV](https://github.com/skolkovo-bba/math/tree/main/math4))
+### [Матан](https://github.com/skolkovo-bba/math) ([I](https://github.com/skolkovo-bba/math/tree/main/math1), [II](https://github.com/skolkovo-bba/math/tree/main/math2), [III](https://github.com/skolkovo-bba/math/tree/main/math3), [IV](https://github.com/skolkovo-bba/math4))
 
 ### [Оптимизация (IV)](https://github.com/skolkovo-bba/mathematical-optimization-4)
 
@@ -27,7 +27,7 @@
 
 ## Физика
 
-### [Общая Физика](https://github.com/skolkovo-bba/phys) ([I](https://github.com/skolkovo-bba/phys/tree/main/phys1), [II](https://github.com/skolkovo-bba/phys/phys2), [III](https://github.com/skolkovo-bba/phys/tree/main/phys3), [IV](https://github.com/skolkovo-bba/phys/tree/main/phys4))
+### [Общая Физика](https://github.com/skolkovo-bba/phys) ([I](https://github.com/skolkovo-bba/phys/tree/main/phys1), [II](https://github.com/skolkovo-bba/phys/phys2), [III](https://github.com/skolkovo-bba/phys/tree/main/phys3), [IV](https://github.com/skolkovo-bba/phys4))
 
 ### [Лабораторные Работы](https://github.com/skolkovo-bba/labs) ([I](https://github.com/skolkovo-bba/labs/tree/main/sem1), [II](https://github.com/skolkovo-bba/labs/tree/main/sem2), [III](https://github.com/skolkovo-bba/labs/tree/main/sem3), [IV](https://github.com/skolkovo-bba/labs/tree/main/sem4))
 
@@ -35,9 +35,9 @@
 
 ## Другое
 
-### [Информатика](https://github.com/skolkovo-bba/informatics) ([I](https://github.com/skolkovo-bba/informatics/tree/main/informatics1), [II](https://github.com/skolkovo-bba/informatics/tree/main/informatics2), [III](https://github.com/skolkovo-bba/informatics/tree/main/informatics3), [IV](https://github.com/skolkovo-bba/informatics/tree/main/informatics4))
+### [Информатика](https://github.com/skolkovo-bba/informatics) ([I](https://github.com/skolkovo-bba/informatics/tree/main/informatics1), [II](https://github.com/skolkovo-bba/informatics/tree/main/informatics2), [III](https://github.com/skolkovo-bba/informatics/tree/main/informatics3), [IV](https://github.com/skolkovo-bba/informatics4))
 
-### [Биология](https://github.com/skolkovo-bba/bio/) ([I](https://github.com/skolkovo-bba/bio/tree/main/bio1), [II](https://github.com/skolkovo-bba/bio/tree/main/bio2), [III](https://github.com/skolkovo-bba/bio/tree/main/bio3), [IV](https://github.com/skolkovo-bba/bio/tree/main/bio4))
+### [Биология](https://github.com/skolkovo-bba/bio/) ([I](https://github.com/skolkovo-bba/bio/tree/main/bio1), [II](https://github.com/skolkovo-bba/bio/tree/main/bio2), [III](https://github.com/skolkovo-bba/bio/tree/main/bio3), [IV](https://github.com/skolkovo-bba/bio4))
 
 # Предметы СКОЛКОВО
 
