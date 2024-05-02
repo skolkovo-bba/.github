@@ -23,7 +23,7 @@
 
 ### [Теорвер (III)](https://github.com/skolkovo-bba/probability-theory3) & [Случ. процессы и матстаты (IV)](https://github.com/skolkovo-bba/random-processes-and-mathematical-statistics-4)
 
-### [Алгем](https://github.com/skolkovo-bba/al-gem) ([I](https://github.com/skolkovo-bba/al-gem/tree/main/al-gem1), [II](https://github.com/skolkovo-bba/al-gem/tree/main/al-gem2))
+### [Алгем](https://github.com/skolkovo-bba/al-gem) ([I](https://github.com/skolkovo-bba/al-gem1), [II](https://github.com/skolkovo-bba/al-gem2))
 
 ### [Диффуры (III)](https://github.com/skolkovo-bba/differential-equations3)
 
