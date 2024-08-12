@@ -21,7 +21,7 @@
 
 ### [Вычислительная Матеша (IV)](https://github.com/skolkovo-bba/computational-mathematics-4)
 
-### [Теорвер (III)](https://github.com/skolkovo-bba/probability-theory3) & [Случ. процессы и матстаты (IV)](https://github.com/skolkovo-bba/random-processes-and-mathematical-statistics-4)
+### [Теорвер (III)](https://github.com/skolkovo-bba/probability-theory3) & [Случ. процессы и матстаты (IV)](https://github.com/skolkovo-bba/random-processes-and-mathematical-statistics4)
 
 ### [Алгем](https://github.com/skolkovo-bba/al-gem) ([I](https://github.com/skolkovo-bba/al-gem1), [II](https://github.com/skolkovo-bba/al-gem2))
 
