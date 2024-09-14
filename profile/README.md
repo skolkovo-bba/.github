@@ -26,13 +26,13 @@
   - ### [Оптимизация (IV)](https://github.com/skolkovo-bba/mathematical-optimization-4)
 </details>
 
-## Физика
-
-### Общая Физика ([I](https://github.com/skolkovo-bba/phys1), [II](https://github.com/skolkovo-bba/phys2), [III](https://github.com/skolkovo-bba/phys3), [IV](https://github.com/skolkovo-bba/phys4))
-
-### [Лабораторные Работы](https://github.com/skolkovo-bba/labs) ([I](https://github.com/skolkovo-bba/labs/tree/main/sem1), [II](https://github.com/skolkovo-bba/labs/tree/main/sem2), [III](https://github.com/skolkovo-bba/labs/tree/main/sem3), [IV](https://github.com/skolkovo-bba/labs/tree/main/sem4))
-
-### [Теормех (III)](https://github.com/skolkovo-bba/analytical-mechanics3) & [Теория динамических систем (IV)](https://github.com/skolkovo-bba/theory-of-dynamic-systems4)
+<details>
+  <summary><h2>Физика</h2></summary>
+  
+  - ### Общая Физика ([I](https://github.com/skolkovo-bba/phys1), [II](https://github.com/skolkovo-bba/phys2), [III](https://github.com/skolkovo-bba/phys3), [IV](https://github.com/skolkovo-bba/phys4))
+  - ### [Лабораторные Работы](https://github.com/skolkovo-bba/labs) ([I](https://github.com/skolkovo-bba/labs/tree/main/sem1), [II](https://github.com/skolkovo-bba/labs/tree/main/sem2), [III](https://github.com/skolkovo-bba/labs/tree/main/sem3), [IV](https://github.com/skolkovo-bba/labs/tree/main/sem4))
+  - ### [Теормех (III)](https://github.com/skolkovo-bba/analytical-mechanics3) & [Теория динамических систем (IV)](https://github.com/skolkovo-bba/theory-of-dynamic-systems4)
+</details>
 
 ## Другое
 
