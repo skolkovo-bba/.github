@@ -6,17 +6,12 @@
 
 
 # ⚛️ Предметы МФТИ
-[Задавальник I](https://github.com/skolkovo-bba/.github/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B8/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%201.pdf)
 
-[Задавальник II](https://github.com/skolkovo-bba/.github/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B8/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%202.pdf)
-
-[Задавальник III](https://github.com/skolkovo-bba/.github/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B8/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%203.pdf)
-
-[Задавальник IV](https://github.com/skolkovo-bba/.github/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B8/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%204.pdf)
+Задавальники ([I](https://github.com/skolkovo-bba/.github/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B8/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%201.pdf), [II](https://github.com/skolkovo-bba/.github/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B8/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%202.pdf), [III](https://github.com/skolkovo-bba/.github/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B8/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%203.pdf), [IV](https://github.com/skolkovo-bba/.github/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B8/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%204.pdf))
 
 
 <details>
-  <summary><h3>Матеша</h3></summary>
+  <summary><h2>Матеша</h2></summary>
   
   - #### Алгем ([I](https://github.com/skolkovo-bba/al-gem1), [II](https://github.com/skolkovo-bba/al-gem2))
   - #### Матан ([I](https://github.com/skolkovo-bba/math1), [II](https://github.com/skolkovo-bba/math2), [III](https://github.com/skolkovo-bba/multiple-integrals-field-theory3), [IV](https://github.com/skolkovo-bba/math4))
