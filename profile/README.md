@@ -15,7 +15,7 @@
 
 ## Матеша
 
-### Алгем (([I](https://github.com/skolkovo-bba/al-gem1), [II](https://github.com/skolkovo-bba/al-gem2))
+### Алгем ([I](https://github.com/skolkovo-bba/al-gem1), [II](https://github.com/skolkovo-bba/al-gem2))
 
 ### Матан ([I](https://github.com/skolkovo-bba/math1), [II](https://github.com/skolkovo-bba/math2), [III](https://github.com/skolkovo-bba/multiple-integrals-field-theory3), [IV](https://github.com/skolkovo-bba/math4))
 
