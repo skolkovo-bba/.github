@@ -25,7 +25,6 @@
   - ### [Вычислительная Матеша (IV)](https://github.com/skolkovo-bba/computational-mathematics-4)
   - ### [Оптимизация (IV)](https://github.com/skolkovo-bba/mathematical-optimization-4)
 </details>
-
 <details>
   <summary><h2>Физика</h2></summary>
   
