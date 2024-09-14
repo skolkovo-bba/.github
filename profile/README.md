@@ -28,9 +28,9 @@
   - ### [Теормех (III)](https://github.com/skolkovo-bba/analytical-mechanics3) & [Теория динамических систем (IV)](https://github.com/skolkovo-bba/theory-of-dynamic-systems4)
 </details>
 
-<h2>🧬 [Биология](https://github.com/skolkovo-bba/bio/) ([I](https://github.com/skolkovo-bba/bio/tree/main/bio1), [II](https://github.com/skolkovo-bba/bio/tree/main/bio2), [III](https://github.com/skolkovo-bba/bio/tree/main/bio3), [IV](https://github.com/skolkovo-bba/bio4))</h2>
+## 🧬 [Биология](https://github.com/skolkovo-bba/bio/) ([I](https://github.com/skolkovo-bba/bio/tree/main/bio1), [II](https://github.com/skolkovo-bba/bio/tree/main/bio2), [III](https://github.com/skolkovo-bba/bio/tree/main/bio3), [IV](https://github.com/skolkovo-bba/bio4))
 
-<h2>📊 [Информатика](https://github.com/skolkovo-bba/informatics) ([I](https://github.com/skolkovo-bba/informatics/tree/main/informatics1), [II](https://github.com/skolkovo-bba/informatics/tree/main/informatics2), [III](https://github.com/skolkovo-bba/informatics/tree/main/informatics3), [IV](https://github.com/skolkovo-bba/informatics4))
+## 📊 [Информатика](https://github.com/skolkovo-bba/informatics) ([I](https://github.com/skolkovo-bba/informatics/tree/main/informatics1), [II](https://github.com/skolkovo-bba/informatics/tree/main/informatics2), [III](https://github.com/skolkovo-bba/informatics/tree/main/informatics3), [IV](https://github.com/skolkovo-bba/informatics4))
 
 # Предметы МОДУЛЕЙ СКОЛКОВО
 
