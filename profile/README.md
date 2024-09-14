@@ -13,12 +13,12 @@
 <details>
   <summary><h2>🧮 Матеша</h2></summary>
   
-  - #### Алгем ([I](https://github.com/skolkovo-bba/al-gem1), [II](https://github.com/skolkovo-bba/al-gem2))
-  - #### Матан ([I](https://github.com/skolkovo-bba/math1), [II](https://github.com/skolkovo-bba/math2), [III](https://github.com/skolkovo-bba/multiple-integrals-field-theory3), [IV](https://github.com/skolkovo-bba/math4))
-  - #### [Диффуры (III)](https://github.com/skolkovo-bba/differential-equations3)
-  - #### [Теорвер (III)](https://github.com/skolkovo-bba/probability-theory3) & [Случ. процессы и матстаты (IV)](https://github.com/skolkovo-bba/random-processes-and-mathematical-statistics4)
-  - #### [Вычислительная Матеша (IV)](https://github.com/skolkovo-bba/computational-mathematics-4)
-  - #### [Оптимизация (IV)](https://github.com/skolkovo-bba/mathematical-optimization-4)
+  - ### Алгем ([I](https://github.com/skolkovo-bba/al-gem1), [II](https://github.com/skolkovo-bba/al-gem2))
+  - ### Матан ([I](https://github.com/skolkovo-bba/math1), [II](https://github.com/skolkovo-bba/math2), [III](https://github.com/skolkovo-bba/multiple-integrals-field-theory3), [IV](https://github.com/skolkovo-bba/math4))
+  - ### [Диффуры (III)](https://github.com/skolkovo-bba/differential-equations3)
+  - ### [Теорвер (III)](https://github.com/skolkovo-bba/probability-theory3) & [Случ. процессы и матстаты (IV)](https://github.com/skolkovo-bba/random-processes-and-mathematical-statistics4)
+  - ### [Вычислительная Матеша (IV)](https://github.com/skolkovo-bba/computational-mathematics-4)
+  - ### [Оптимизация (IV)](https://github.com/skolkovo-bba/mathematical-optimization-4)
 </details>
 <details>
   <summary><h2>🔬 Физика</h2></summary>
