@@ -14,7 +14,7 @@
 
 
 <details>
-  ## <summary>Матеша</summary>
+  <summary><h2>Матеша</h2></summary>
 
   - ### Алгем ([I](https://github.com/skolkovo-bba/al-gem1), [II](https://github.com/skolkovo-bba/al-gem2))
 
