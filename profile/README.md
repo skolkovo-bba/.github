@@ -4,15 +4,6 @@
 
 **Если вы готовы поделиться материалами по второму потоку, то напишите [Марии](https://t.me/omagasha) или [Егору](https://t.me/Arlekk1n), по поводу достпупа к приватным курсам писать им же**
 
-<details>
-  <summary>Математика</summary>
-  
-  - [Матан I](https://github.com/skolkovo-bba/math1)
-  - [Матан II](https://github.com/skolkovo-bba/math2)
-  - [Оптимизация IV](https://github.com/skolkovo-bba/mathematical-optimization-4)
-  
-</details>
-
 
 # ⚛️ Предметы МФТИ
 [Задавальник I](https://github.com/skolkovo-bba/.github/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B8/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%201.pdf)
@@ -22,20 +13,21 @@
 [Задавальник IV](https://github.com/skolkovo-bba/.github/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B8/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%204.pdf)
 
 
+<details>
+  <summary>## Матеша</summary>
 
-## Матеша
+  - ### Алгем ([I](https://github.com/skolkovo-bba/al-gem1), [II](https://github.com/skolkovo-bba/al-gem2))
 
-### Алгем ([I](https://github.com/skolkovo-bba/al-gem1), [II](https://github.com/skolkovo-bba/al-gem2))
+  - ### Матан ([I](https://github.com/skolkovo-bba/math1), [II](https://github.com/skolkovo-bba/math2), [III](https://github.com/skolkovo-bba/multiple-integrals-field-theory3), [IV](https://github.com/skolkovo-bba/math4))
 
-### Матан ([I](https://github.com/skolkovo-bba/math1), [II](https://github.com/skolkovo-bba/math2), [III](https://github.com/skolkovo-bba/multiple-integrals-field-theory3), [IV](https://github.com/skolkovo-bba/math4))
+  - ### [Диффуры (III)](https://github.com/skolkovo-bba/differential-equations3)
 
-### [Диффуры (III)](https://github.com/skolkovo-bba/differential-equations3)
+  - ### [Теорвер (III)](https://github.com/skolkovo-bba/probability-theory3) & [Случ. процессы и матстаты (IV)](https://github.com/skolkovo-bba/random-processes-and-mathematical-statistics4)
 
-### [Теорвер (III)](https://github.com/skolkovo-bba/probability-theory3) & [Случ. процессы и матстаты (IV)](https://github.com/skolkovo-bba/random-processes-and-mathematical-statistics4)
+  - ### [Вычислительная Матеша (IV)](https://github.com/skolkovo-bba/computational-mathematics-4)
 
-### [Вычислительная Матеша (IV)](https://github.com/skolkovo-bba/computational-mathematics-4)
-
-### [Оптимизация (IV)](https://github.com/skolkovo-bba/mathematical-optimization-4)
+  - ### [Оптимизация (IV)](https://github.com/skolkovo-bba/mathematical-optimization-4)
+</details>
 
 ## Физика
 
