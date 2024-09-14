@@ -56,7 +56,7 @@
 ### [Trends and Marketing (II)](https://github.com/skolkovo-bba/sociology-trends-and-marketing-strategies-en2) & [Тренды и Маркетинг (II)](https://github.com/skolkovo-bba/sociology-trends-and-marketing-strategies2)
 ### [Дата-ориентированные Коммуникации (III)](https://github.com/skolkovo-bba/fundamentals-of-data-driven-communications3)
 ### [Основы Лидерства (I)](https://github.com/skolkovo-bba/fundamentals-of-leadership1)
-### [Менеджмент (III)](https://github.com/skolkovo-bba/organizational-management3)
+### [Организационный менеджмент (III)](https://github.com/skolkovo-bba/organizational-management3)
 ### [Мировая Культура (II)](https://github.com/skolkovo-bba/world-culture2)
 ### [Междисциплинарная Сборка (I)](https://github.com/skolkovo-bba/interdisciplinary-assembly1)
 
