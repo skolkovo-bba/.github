@@ -5,9 +5,9 @@
 **Если вы готовы поделиться материалами по второму потоку, то напишите [Марии](https://t.me/omagasha) или [Егору](https://t.me/Arlekk1n), по поводу достпупа к приватным курсам писать им же**
 
 # Предметы МФТИ
-[Задавальнк I](https://github.com/skolkovo-bba/.github/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B8/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%201.pdf)
+[Задавальник I](https://github.com/skolkovo-bba/.github/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B8/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%201.pdf)
 
-[Задавальнк III](https://github.com/skolkovo-bba/.github/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B8/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%203.pdf)
+[Задавальник III](https://github.com/skolkovo-bba/.github/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B8/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%203.pdf)
 
 [Задавальник IV](https://github.com/skolkovo-bba/.github/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B8/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%204.pdf)
 
@@ -15,17 +15,17 @@
 
 ## Матеша
 
+### [Алгем](https://github.com/skolkovo-bba/al-gem) ([I](https://github.com/skolkovo-bba/al-gem1), [II](https://github.com/skolkovo-bba/al-gem2))
+
 ### Матан ([I](https://github.com/skolkovo-bba/math1), [II](https://github.com/skolkovo-bba/math2), [III](https://github.com/skolkovo-bba/multiple-integrals-field-theory3), [IV](https://github.com/skolkovo-bba/math4))
 
-### [Оптимизация (IV)](https://github.com/skolkovo-bba/mathematical-optimization-4)
-
-### [Вычислительная Матеша (IV)](https://github.com/skolkovo-bba/computational-mathematics-4)
+### [Диффуры (III)](https://github.com/skolkovo-bba/differential-equations3)
 
 ### [Теорвер (III)](https://github.com/skolkovo-bba/probability-theory3) & [Случ. процессы и матстаты (IV)](https://github.com/skolkovo-bba/random-processes-and-mathematical-statistics4)
 
-### [Алгем](https://github.com/skolkovo-bba/al-gem) ([I](https://github.com/skolkovo-bba/al-gem1), [II](https://github.com/skolkovo-bba/al-gem2))
+### [Вычислительная Матеша (IV)](https://github.com/skolkovo-bba/computational-mathematics-4)
 
-### [Диффуры (III)](https://github.com/skolkovo-bba/differential-equations3)
+### [Оптимизация (IV)](https://github.com/skolkovo-bba/mathematical-optimization-4)
 
 ## Физика
 
@@ -37,18 +37,18 @@
 
 ## Другое
 
-### [Информатика](https://github.com/skolkovo-bba/informatics) ([I](https://github.com/skolkovo-bba/informatics/tree/main/informatics1), [II](https://github.com/skolkovo-bba/informatics/tree/main/informatics2), [III](https://github.com/skolkovo-bba/informatics/tree/main/informatics3), [IV](https://github.com/skolkovo-bba/informatics4))
-
 ### [Биология](https://github.com/skolkovo-bba/bio/) ([I](https://github.com/skolkovo-bba/bio/tree/main/bio1), [II](https://github.com/skolkovo-bba/bio/tree/main/bio2), [III](https://github.com/skolkovo-bba/bio/tree/main/bio3), [IV](https://github.com/skolkovo-bba/bio4))
+
+### [Информатика](https://github.com/skolkovo-bba/informatics) ([I](https://github.com/skolkovo-bba/informatics/tree/main/informatics1), [II](https://github.com/skolkovo-bba/informatics/tree/main/informatics2), [III](https://github.com/skolkovo-bba/informatics/tree/main/informatics3), [IV](https://github.com/skolkovo-bba/informatics4))
 
 # Предметы МОДУЛЕЙ СКОЛКОВО
 
 ## Курсы SAS/Биология
 
-### [Город-как-текст (II, 22/23)](https://github.com/skolkovo-bba/city-as-text2)
-### [Медиа и культурные техники (I, 22/23)](https://github.com/skolkovo-bba/media-and-cultural-techniques1) & [Эксперименты и научный метод (I, 23/24)](https://github.com/skolkovo-bba/experimentality-technology-scientific-method1)
-### [Эволюционная Генетика (I, 22/23)](https://github.com/skolkovo-bba/evolutionary-genetics1) & [Поведенческая Биология (I, 23/24)](https://github.com/skolkovo-bba/biology-of-human-behaviour1)
 ### [Поведенческая Экономика (I)](https://github.com/skolkovo-bba/behavioral-economics1)
+### [Эволюционная Генетика (I, 22/23)](https://github.com/skolkovo-bba/evolutionary-genetics1) & [Поведенческая Биология (I, 23/24)](https://github.com/skolkovo-bba/biology-of-human-behaviour1)
+### [Медиа и культурные техники (I, 22/23)](https://github.com/skolkovo-bba/media-and-cultural-techniques1) & [Эксперименты и научный метод (I, 23/24)](https://github.com/skolkovo-bba/experimentality-technology-scientific-method1)
+### [Город-как-текст (II, 22/23)](https://github.com/skolkovo-bba/city-as-text2)
 ### [Fundamentals of Sociology (II, 22/23)](https://github.com/skolkovo-bba/fundamentals-of-sociology-en2) & [Основы Социологии (II)](https://github.com/skolkovo-bba/fundamentals-of-sociology2)
 
 ## Курсы бизнес-школы
