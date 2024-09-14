@@ -11,7 +11,7 @@
 
 
 <details>
-  <summary><h2>Матеша</h2></summary>
+  <summary><h2>🧮 Матеша</h2></summary>
   
   - #### Алгем ([I](https://github.com/skolkovo-bba/al-gem1), [II](https://github.com/skolkovo-bba/al-gem2))
   - #### Матан ([I](https://github.com/skolkovo-bba/math1), [II](https://github.com/skolkovo-bba/math2), [III](https://github.com/skolkovo-bba/multiple-integrals-field-theory3), [IV](https://github.com/skolkovo-bba/math4))
@@ -21,18 +21,16 @@
   - #### [Оптимизация (IV)](https://github.com/skolkovo-bba/mathematical-optimization-4)
 </details>
 <details>
-  <summary><h2>Физика</h2></summary>
+  <summary><h2>🔬 Физика</h2></summary>
   
   - ### Общая Физика ([I](https://github.com/skolkovo-bba/phys1), [II](https://github.com/skolkovo-bba/phys2), [III](https://github.com/skolkovo-bba/phys3), [IV](https://github.com/skolkovo-bba/phys4))
   - ### [Лабораторные Работы](https://github.com/skolkovo-bba/labs) ([I](https://github.com/skolkovo-bba/labs/tree/main/sem1), [II](https://github.com/skolkovo-bba/labs/tree/main/sem2), [III](https://github.com/skolkovo-bba/labs/tree/main/sem3), [IV](https://github.com/skolkovo-bba/labs/tree/main/sem4))
   - ### [Теормех (III)](https://github.com/skolkovo-bba/analytical-mechanics3) & [Теория динамических систем (IV)](https://github.com/skolkovo-bba/theory-of-dynamic-systems4)
 </details>
 
-## Другое
+<h2>🧬 [Биология](https://github.com/skolkovo-bba/bio/) ([I](https://github.com/skolkovo-bba/bio/tree/main/bio1), [II](https://github.com/skolkovo-bba/bio/tree/main/bio2), [III](https://github.com/skolkovo-bba/bio/tree/main/bio3), [IV](https://github.com/skolkovo-bba/bio4))</h2>
 
-### [Биология](https://github.com/skolkovo-bba/bio/) ([I](https://github.com/skolkovo-bba/bio/tree/main/bio1), [II](https://github.com/skolkovo-bba/bio/tree/main/bio2), [III](https://github.com/skolkovo-bba/bio/tree/main/bio3), [IV](https://github.com/skolkovo-bba/bio4))
-
-### [Информатика](https://github.com/skolkovo-bba/informatics) ([I](https://github.com/skolkovo-bba/informatics/tree/main/informatics1), [II](https://github.com/skolkovo-bba/informatics/tree/main/informatics2), [III](https://github.com/skolkovo-bba/informatics/tree/main/informatics3), [IV](https://github.com/skolkovo-bba/informatics4))
+<h2>📊 [Информатика](https://github.com/skolkovo-bba/informatics) ([I](https://github.com/skolkovo-bba/informatics/tree/main/informatics1), [II](https://github.com/skolkovo-bba/informatics/tree/main/informatics2), [III](https://github.com/skolkovo-bba/informatics/tree/main/informatics3), [IV](https://github.com/skolkovo-bba/informatics4))
 
 # Предметы МОДУЛЕЙ СКОЛКОВО
 
