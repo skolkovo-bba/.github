@@ -41,7 +41,7 @@
 
 ### [Биология](https://github.com/skolkovo-bba/bio/) ([I](https://github.com/skolkovo-bba/bio/tree/main/bio1), [II](https://github.com/skolkovo-bba/bio/tree/main/bio2), [III](https://github.com/skolkovo-bba/bio/tree/main/bio3), [IV](https://github.com/skolkovo-bba/bio4))
 
-# Предметы СКОЛКОВО
+# Предметы МОДУЛЕЙ СКОЛКОВО
 
 ## Курсы SAS/Биология
 
@@ -65,6 +65,16 @@
 ### [Философия (III)](https://github.com/skolkovo-bba/philosophy3)
 ### [История (III)](https://github.com/skolkovo-bba/history3)
 ### [Политология (III)](https://github.com/skolkovo-bba/political-science3)
+
+# Предметы 3 КУРС СКОЛКОВО
+
+### [Стратегический менеджмент (V)](https://github.com/skolkovo-bba/strategic-management5)
+### [Microeconomics (V)](https://github.com/skolkovo-bba/microeconomics-en5)
+### [Коммуникация с данными (V)](https://github.com/skolkovo-bba/communication-with-data5)
+### [Великие книги: бизнес (V)](https://github.com/skolkovo-bba/great-books-business5)
+### [Теориетическая физика (V)](https://github.com/skolkovo-bba/theoretical-physics5)
+
+
 
 # Благодарности авторам:
 * Касьянов Семён - **ФБВТ**(2022)
