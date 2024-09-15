@@ -30,7 +30,7 @@
 </details>
 
 ### <a href="https://github.com/skolkovo-bba/bio">🧬 Биология</a> (<a href="https://github.com/skolkovo-bba/bio/tree/main/bio1">I</a>, <a href="https://github.com/skolkovo-bba/bio/tree/main/bio2">II</a>, <a href="https://github.com/skolkovo-bba/bio/tree/main/bio3">III</a>, <a href="https://github.com/skolkovo-bba/bio4">IV</a>)
-## 📊 [Информатика](https://github.com/skolkovo-bba/informatics) ([I](https://github.com/skolkovo-bba/informatics/tree/main/informatics1), [II](https://github.com/skolkovo-bba/informatics/tree/main/informatics2), [III](https://github.com/skolkovo-bba/informatics/tree/main/informatics3), [IV](https://github.com/skolkovo-bba/informatics4))
+### 📊 [Информатика](https://github.com/skolkovo-bba/informatics) ([I](https://github.com/skolkovo-bba/informatics/tree/main/informatics1), [II](https://github.com/skolkovo-bba/informatics/tree/main/informatics2), [III](https://github.com/skolkovo-bba/informatics/tree/main/informatics3), [IV](https://github.com/skolkovo-bba/informatics4))
 
 # Предметы МОДУЛЕЙ СКОЛКОВО
 
