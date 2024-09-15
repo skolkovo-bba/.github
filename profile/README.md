@@ -5,7 +5,7 @@
 **Если вы готовы поделиться материалами по второму потоку, то напишите [Марии](https://t.me/omagasha) или [Егору](https://t.me/Arlekk1n), по поводу достпупа к приватным курсам писать им же**
 
 
-# ⚛️ МФТИ
+# ⚛️ Предметы МФТИ
 
 Задавальники ([I](https://github.com/skolkovo-bba/.github/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B8/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%201.pdf), [II](https://github.com/skolkovo-bba/.github/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B8/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%202.pdf), [III](https://github.com/skolkovo-bba/.github/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B8/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%203.pdf), [IV](https://github.com/skolkovo-bba/.github/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B8/%D0%97%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%204.pdf))
 
@@ -26,12 +26,11 @@
   - ### Общая Физика ([I](https://github.com/skolkovo-bba/phys1), [II](https://github.com/skolkovo-bba/phys2), [III](https://github.com/skolkovo-bba/phys3), [IV](https://github.com/skolkovo-bba/phys4))
   - ### [Лабораторные Работы](https://github.com/skolkovo-bba/labs) ([I](https://github.com/skolkovo-bba/labs/tree/main/sem1), [II](https://github.com/skolkovo-bba/labs/tree/main/sem2), [III](https://github.com/skolkovo-bba/labs/tree/main/sem3), [IV](https://github.com/skolkovo-bba/labs/tree/main/sem4))
   - ### [Теормех (III)](https://github.com/skolkovo-bba/analytical-mechanics3) & [Теория динамических систем (IV)](https://github.com/skolkovo-bba/theory-of-dynamic-systems4)
+  - ### [Теориетическая физика (V)](https://github.com/skolkovo-bba/theoretical-physics5)
 </details>
 
 ### <a href="https://github.com/skolkovo-bba/bio">🧬 Биология</a> (<a href="https://github.com/skolkovo-bba/bio/tree/main/bio1">I</a>, <a href="https://github.com/skolkovo-bba/bio/tree/main/bio2">II</a>, <a href="https://github.com/skolkovo-bba/bio/tree/main/bio3">III</a>, <a href="https://github.com/skolkovo-bba/bio4">IV</a>)
-
-### 📊 <a href="https://github.com/skolkovo-bba/informatics">Информатика</a> (<a href="https://github.com/skolkovo-bba/informatics/tree/main/informatics1">I</a>, <a href="https://github.com/skolkovo-bba/informatics/tree/main/informatics2">II</a>, <a href="https://github.com/skolkovo-bba/informatics/tree/main/informatics3">III</a>, <a href="https://github.com/skolkovo-bba/informatics/tree/main/informatics3">IV</a>)
-
+## 📊 [Информатика](https://github.com/skolkovo-bba/informatics) ([I](https://github.com/skolkovo-bba/informatics/tree/main/informatics1), [II](https://github.com/skolkovo-bba/informatics/tree/main/informatics2), [III](https://github.com/skolkovo-bba/informatics/tree/main/informatics3), [IV](https://github.com/skolkovo-bba/informatics4))
 
 # Предметы МОДУЛЕЙ СКОЛКОВО
 
