@@ -63,7 +63,7 @@
 ### [Microeconomics (V)](https://github.com/skolkovo-bba/microeconomics-en5)
 ### [Коммуникация с данными (V)](https://github.com/skolkovo-bba/communication-with-data5)
 ### [Великие книги: бизнес (V)](https://github.com/skolkovo-bba/great-books-business5)
-### [Теориетическая физика (V)](https://github.com/skolkovo-bba/theoretical-physics5)
+### [Теоретическая физика (V)](https://github.com/skolkovo-bba/theoretical-physics5)
 
 
 
