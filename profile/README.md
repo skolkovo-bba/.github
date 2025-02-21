@@ -26,7 +26,7 @@
   - ### Общая Физика ([I](https://github.com/skolkovo-bba/phys1), [II](https://github.com/skolkovo-bba/phys2), [III](https://github.com/skolkovo-bba/phys3), [IV](https://github.com/skolkovo-bba/phys4))
   - ### [Лабораторные Работы](https://github.com/skolkovo-bba/labs) ([I](https://github.com/skolkovo-bba/labs/tree/main/sem1), [II](https://github.com/skolkovo-bba/labs/tree/main/sem2), [III](https://github.com/skolkovo-bba/labs/tree/main/sem3), [IV](https://github.com/skolkovo-bba/labs/tree/main/sem4))
   - ### [Теормех (III)](https://github.com/skolkovo-bba/analytical-mechanics3) & [Теория динамических систем (IV)](https://github.com/skolkovo-bba/theory-of-dynamic-systems4)
-  - ### Теориетическая физика ([V](https://github.com/skolkovo-bba/theoretical-physics5),[VI](https://github.com/skolkovo-bba/theoretical-physics6))
+  - ### Теориетическая физика ([V](https://github.com/skolkovo-bba/theoretical-physics5), [VI](https://github.com/skolkovo-bba/theoretical-physics6))
 </details>
 
 ### <a href="https://github.com/skolkovo-bba/bio">🧬 Биология</a> (<a href="https://github.com/skolkovo-bba/bio/tree/main/bio1">I</a>, <a href="https://github.com/skolkovo-bba/bio/tree/main/bio2">II</a>, <a href="https://github.com/skolkovo-bba/bio/tree/main/bio3">III</a>, <a href="https://github.com/skolkovo-bba/bio4">IV</a>)
@@ -63,7 +63,7 @@
 ### [Microeconomics (V)](https://github.com/skolkovo-bba/microeconomics-en5)
 ### [Коммуникация с данными (V)](https://github.com/skolkovo-bba/communication-with-data5)
 ### [Великие книги: бизнес (V)](https://github.com/skolkovo-bba/great-books-business5)
-### Теориетическая физика ([V](https://github.com/skolkovo-bba/theoretical-physics5),[VI](https://github.com/skolkovo-bba/theoretical-physics6))
+### Теориетическая физика ([V](https://github.com/skolkovo-bba/theoretical-physics5), [VI](https://github.com/skolkovo-bba/theoretical-physics6))
 
 
 # Благодарности авторам:
